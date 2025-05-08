@@ -1,0 +1,1 @@
+// couponModel.js - Starter template
